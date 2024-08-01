@@ -23,9 +23,9 @@ This project contains the implementation of an AI agent that leverages the capab
    pip install -r requirements.txt
 
 3. Change the access tokens and API keys in the .env file
-   OPENAI_API_KEY=your_openai_api_key
-   SLACK_API_TOKEN=your_slack_api_token
-   SLACK_CHANNEL_ID=your_slack_channel_id
+   - OPENAI_API_KEY=your_openai_api_key
+   - SLACK_API_TOKEN=your_slack_api_token
+   - SLACK_CHANNEL_ID=your_slack_channel_id
 
 4. Create a Slack App and set up a bot and bot tokens
    Add the bot to your desired slack channel
@@ -33,5 +33,3 @@ This project contains the implementation of an AI agent that leverages the capab
 ## Usage
    ```bash
    python main.py path/to/your/document.pdf path/to/your/questions.json
-
-
