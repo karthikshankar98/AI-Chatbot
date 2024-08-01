@@ -27,9 +27,9 @@ This project contains the implementation of an AI agent that leverages the capab
    - SLACK_API_TOKEN=your_slack_api_token
    - SLACK_CHANNEL_ID=your_slack_channel_id
 
-4. Create a Slack App and set up a bot and bot tokens; Add the bot to your desired slack channel
+4. Create a Slack App and set up a bot and bot tokens; Add the bot to your desired Slack channel
 
 ## Usage
+   Execute main.py file as shown in the below format to see the chatbot responses on a Slack channel
    ```bash
    python main.py path/to/your/document.pdf path/to/your/questions.json
-   
