@@ -13,6 +13,7 @@ This project contains the implementation of an AI agent that leverages the capab
 - Required Python packages (see `requirements.txt`)
 
 ## File/Directory Descriptions
+- results - contains a video of the program in action
 - main.py: The main entry point for the application. It processes the PDF file and questions, retrieves answers using the OpenAI API, and posts the results to a Slack channel
 - requirements.txt: Lists all the dependencies required for the project, making it easy to install them using 'pip'
 - config.py: Contains configuration settings, such as API keys and other constants, which are used throughout the project
