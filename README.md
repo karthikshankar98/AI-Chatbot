@@ -18,13 +18,13 @@ This project contains the implementation of an AI agent that leverages the capab
 - config.py: Contains configuration settings, such as API keys and other constants, which are used throughout the project
 - .env: Contains API keys and Access tokens
 
-  utils
+###  utils
 - utils/init.py: An empty file that marks the utils directory as a Python package
 - utils/pdf_parser.py: Contains functions for extracting text from PDF files
 - utils/openai_api.py: Implements the logic for interacting with the OpenAI API to generate answers based on the extracted text and questions
 - utils/slack_api.py: Contains functions for posting messages to a Slack channel using the Slack API
 
-  tests
+###  tests
 - tests/init.py: An empty file that marks the tests directory as a Python package
 - tests/test_pdf_parser.py: In future, will contain additional unit tests for the PDF parsing functionality
 - tests/test_openai_api.py: In future, will contain additional unit tests for the OpenAI API interaction functionality
