@@ -15,5 +15,10 @@ This project contains the implementation of an AI agent that leverages the capab
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/zania_ai_challenge.git
-   cd zania_ai_challenge
+   git clone https://github.com/karthikshankar98/Zania-AI-Challenge.git
+   cd Zania_AI_Challenge
+
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+
