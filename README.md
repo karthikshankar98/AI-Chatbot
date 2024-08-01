@@ -34,9 +34,4 @@ This project contains the implementation of an AI agent that leverages the capab
    ```bash
    python main.py path/to/your/document.pdf path/to/your/questions.json
 
-## Results
-   Responses of the chatbot will be displayed on a Slack channel as shown below:
-   ![image](https://github.com/user-attachments/assets/f257632c-43ec-4c32-adbf-2c97b889cd19)
-
-
 
