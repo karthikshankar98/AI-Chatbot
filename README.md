@@ -17,11 +17,11 @@ This project contains the implementation of an AI agent that leverages the capab
    ```bash
    git clone https://github.com/karthikshankar98/Zania-AI-Challenge.git
    cd Zania_AI_Challenge
-
+   ```
 2. Install the required packages:
    ```bash
    pip install -r requirements.txt
-   
+   ```
 3. Change the access tokens and API keys in the .env file
    - OPENAI_API_KEY=your_openai_api_key
    - SLACK_API_TOKEN=your_slack_api_token
@@ -30,6 +30,11 @@ This project contains the implementation of an AI agent that leverages the capab
 4. Create a Slack App and set up a bot and bot tokens; Add the bot to your desired Slack channel
 
 ## Usage
-   Execute main.py file as shown in the below format to see the chatbot responses on a Slack channel
+   Execute main.py file as shown below to see the chatbot responses on a Slack channel
    ```bash
    python main.py path/to/your/document.pdf path/to/your/questions.json
+   ```
+## Future Improvements for Stable Production release
+- Optimize Slack message formatting
+- Include more comprehensive unit tests
+- Additional error handling
