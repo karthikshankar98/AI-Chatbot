@@ -1,4 +1,4 @@
-# Zania-AI-Challenge
+# AI Chatbot
 
 This project contains the implementation of an AI agent that leverages the capabilities of a large language model (LLM) to extract answers from a PDF document and post the results on Slack.
 
